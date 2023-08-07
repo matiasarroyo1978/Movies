@@ -5,7 +5,7 @@ const Socials = () => {
   return (
     <div className="socials">
       <a
-        href="https://github.com/matiasarroyo1978"
+        href="https://github.com/matiasarroyo1978/Movies"
         target="_blank"
         rel="noopener noreferrer"
       >
