@@ -2,7 +2,6 @@ import axios from "axios";
 import queryString from "query-string";
 
 const baseURL = process.env.REACT_APP_API_URL;
-console.log(baseURL);
 const publicClient = axios.create({
   baseURL,
   paramsSerializer: {
