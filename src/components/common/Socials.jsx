@@ -12,7 +12,7 @@ const Socials = () => {
         <GitHub />
       </a>
       <a
-        href="https://www.linkedin.com/in/matias-arroyo/"
+        href="https://www.linkedin.com/in/matias-arroyo19/"
         target="_blank"
         rel="noopener noreferrer"
       >
